@@ -10,5 +10,4 @@ hello i am  14. i make roblox **SCRIPT GUIS**⚒️
 
 - lua beginner i dont know much
 
-- also great for krnl support!
 
