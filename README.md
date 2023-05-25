@@ -11,3 +11,4 @@ hello i am  14. i make roblox **SCRIPT GUIS**⚒️
 - lua beginner i dont know much
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
