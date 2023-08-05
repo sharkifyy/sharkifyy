@@ -2,7 +2,7 @@
 
 - you can reach me on discord: sharkify_
 
-- swimhub management
+- krnl support
 
 - im learning **LUAU**
 
