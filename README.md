@@ -2,7 +2,7 @@
 
 - you can reach me on discord: sharkify_
 
-- krnl support
+- Krnl Staff
 
 - im learning **LUAU**
 
