@@ -1,8 +1,9 @@
-- hello i am  14. birthday is (10/16/08)
+# Hello I'm Shark!
+# birthday
+- **i am 14 (10/16/08)**
+# projects
+- **SharkHub**
 
-- you can reach me on discord: sharkify_
-
-- Krnl Staff
-
-- im learning **LUAU**
-
+# about me
+- **Krnl Staff**
+- **cool person**
