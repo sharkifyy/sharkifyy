@@ -8,5 +8,3 @@
 - **Krnl Staff**
 - **cool person**
 
-  # upcoming dreams
-  - **Reverse Engineering**
