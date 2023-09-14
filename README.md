@@ -7,3 +7,6 @@
 # about me
 - **Krnl Staff**
 - **cool person**
+
+  # upcoming dreams
+  - **Reverse Engineering**
