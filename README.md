@@ -2,7 +2,7 @@
 # birthday
 - **i am 14 (10/16/08)**
 # projects
-- **SharkHub**
+- **SharkHub, and swimhub contribution**
 
 # about me
 - **Krnl Staff**
