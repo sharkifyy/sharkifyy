@@ -5,7 +5,6 @@
 - **swimhub contribution/Management Team**
 
 # about me
-- **Krnl Staff**
 - **cool person**
 
 
